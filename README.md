@@ -5,7 +5,7 @@ El objetivo principal de este trabajo es desarrollar un modelo gráfico probabil
 
 ## Variables Utilizadas
 1. Categoría de Vehículo: Indica la categoría del vehículo a asegurar (Se manejan 02 valores: Gama Alta o Gama Baja)
-2. Cliente Nuevo: Variable dicotómica en donde se precisa si el cliente es nuevo o no (SI o NO).
+2. Cliente: Variable dicotómica en donde se precisa si el cliente es nuevo o no (SI o NO).
 3. Uso del Vehículo: Indica el tipo de uso al vehículo (Se manejan 02 valores: Particular o Comercial).
 4. Siniestros Anteriores: Variable dicotómica en donde se precisa si el cliente ha tenido o no siniestros anteriores (SI o NO).
 5. Infracciones: Indica la categoría representando la cantidad de infracciones cometidas (Se manejan 03 categorías: Sin Infracciones (0), Moderadas Infracciones (1-5) y Altas Infracciones (6 o más)).
