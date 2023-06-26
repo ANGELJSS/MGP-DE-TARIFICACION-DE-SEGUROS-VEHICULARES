@@ -28,6 +28,6 @@ El objetivo principal de este trabajo es desarrollar un modelo gráfico probabil
 4. Envía un pull request describiendo tus cambios.
 
 ## Contacto
-Si tienes alguna pregunta o consulta sobre este proyecto, no dudes en ponerte en contacto con nosotros. Puedes enviarnos un correo electrónico a [1jssangel1@gmail.com](1jssangel1@gmail.com) o visitar nuestra página de GitHub en [github.com/JSSANGEL](https://github.com/JSSANGEL).
+Si tienes alguna pregunta o consulta sobre este proyecto, no dudes en ponerte en contacto con nosotros. Puedes enviarnos un correo electrónico a [1jssangel1@gmail.com](1jssangel1@gmail.com) o visitar nuestra página de GitHub en [github.com/ANGELJSS](https://github.com/ANGELJSS).
 
 ¡Gracias por tu interés en nuestro modelo de tarificación de seguros vehiculares!
